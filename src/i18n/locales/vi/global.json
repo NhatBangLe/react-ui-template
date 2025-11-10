@@ -1,0 +1,9 @@
+{
+	"app": {
+		"title": "Test Application"
+	},
+	"error": {
+		"somethingWrong": "Có gì đó sai sai"
+	},
+	"returnToHome": "Trở về Trang chủ"
+}
