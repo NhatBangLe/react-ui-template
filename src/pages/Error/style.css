@@ -45,17 +45,6 @@
 	position: absolute;
 	z-index: 999;
 }
-.face .band:after {
-	content: '';
-	display: inline-block;
-	height: 27px;
-	width: 30px;
-	background-color: rgba(56, 58, 65, 0.3);
-	position: absolute;
-	z-index: 999;
-	right: 0;
-	margin-top: -27px;
-}
 .face .eyes {
 	width: 128px;
 	margin: 0 auto;
